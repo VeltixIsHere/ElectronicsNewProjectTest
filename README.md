@@ -2,6 +2,7 @@
 For a simple Electronics Project, Dont judge me pls
 
 
-<b><font color="red">MOST OF THIS PROJECT WAS MADE BY CHAT-GPT 5(BIG SUPRISE)</font></b>
+##**MOST OF THIS PROJECT WAS MADE BY _CHAT-GPT 5_(BIG SUPRISE)**
 
 
+**Create a virtual environment and use python 3.11**
